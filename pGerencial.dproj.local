@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/01 23:55:59.000.039,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/01 23:56:25.000.461,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Nova pasta\uFormPrincipal.pas</Transaction>
+    <Transaction>2017/03/01 23:56:25.000.461,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Nova pasta\uFormPrincipal.dfm</Transaction>
+    <Transaction>2017/03/02 00:02:11.000.615,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/02 00:08:37.000.340,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Nova pasta\uFormCadastroAlergias.pas</Transaction>
+    <Transaction>2017/03/02 00:08:37.000.340,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Nova pasta\uFormCadastroAlergias.dfm</Transaction>
+    <Transaction>2017/03/02 00:08:45.000.555,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/02 00:09:50.000.645,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Nova pasta\uDataModule.pas</Transaction>
+    <Transaction>2017/03/02 00:09:50.000.645,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Nova pasta\uDataModule.dfm</Transaction>
+    <Transaction>2017/03/02 00:41:42.000.313,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Nova pasta\pGerencial.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
